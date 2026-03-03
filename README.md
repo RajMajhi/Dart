@@ -5,7 +5,7 @@ Dart is a modern, open-source programming language developed by Google. It is op
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Object-oriented and strongly typed
 - Null safety support
@@ -16,7 +16,7 @@ Dart is a modern, open-source programming language developed by Google. It is op
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### 1️⃣ Download Dart SDK
 
@@ -33,7 +33,7 @@ dart --version
 
 ---
 
-## 🏁 Create and Run a Dart Project
+##  Create and Run a Dart Project
 
 ```bash
 dart create my_project
@@ -49,7 +49,7 @@ dart run filename.dart
 
 ---
 
-## 🧩 Basic Example
+##  Basic Example
 
 ```dart
 void main() {
@@ -59,7 +59,7 @@ void main() {
 
 ---
 
-## 📚 Dart Basics
+##  Dart Basics
 
 ### Variables and Data Types
 
@@ -113,7 +113,7 @@ while (age > 0) {
 
 ---
 
-## 🛠️ Functions
+##  Functions
 
 ```dart
 int add(int a, int b) {
@@ -129,7 +129,7 @@ int square(int x) => x * x;
 
 ---
 
-## 🏗️ Classes and Objects
+##  Classes and Objects
 
 ```dart
 class Person {
@@ -151,7 +151,7 @@ void main() {
 
 ---
 
-## ⚡ Asynchronous Programming
+##  Asynchronous Programming
 
 ```dart
 Future<String> fetchData() async {
@@ -162,7 +162,7 @@ Future<String> fetchData() async {
 
 ---
 
-## 🔒 Null Safety
+##  Null Safety
 
 ```dart
 String? nullableName;   // Can be null
@@ -171,7 +171,7 @@ String username = "Raj"; // Cannot be null
 
 ---
 
-## 📦 Package Management
+##  Package Management
 
 Add a package:
 
@@ -187,7 +187,7 @@ dart pub get
 
 ---
 
-## 🎯 Dart with Flutter
+##  Dart with Flutter
 
 Dart is widely used with Flutter to build:
 
@@ -198,7 +198,7 @@ Dart is widely used with Flutter to build:
 
 ---
 
-## 📖 Useful Links
+##  Useful Links
 
 * Official Documentation: [https://dart.dev](https://dart.dev)
 * Package Repository: [https://pub.dev](https://pub.dev)
